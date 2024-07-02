@@ -1,0 +1,115 @@
+1)basics of java
+2)core java concept
+3)oops
+4)Exception Handling
+5)Collection framework
+6)recursion
+7)Data Structure and Algorithms
+------------------------------------------------
+Data Structure And Algorithms Topics
+-------------------------------------------------
+Frontend Development:
+1)HTML
+2)CSS
+3)Javascript
+4)Bootstrap
+5)Tailwind css
+6)React js
+-------------------------------------------------
+Backend development:
+1)Node js
+2)Testing
+--------------------------------------------------
+Arrays
+Linked Lists
+Stack
+Queues
+--------------------------------------------------
+1st month==
+Arrays -->
+      1) Two pointers Algorithms
+      2) Sorting Based problems
+      3) Kadane,s Algorithm
+      4)Arrays Rotations
+      5)Sub-arrays Based problems
+Linked Lists-->
+      1)Nodes Manipulation
+      2)Reversing
+      3)Recording List
+      4)Manipulating Two lists
+Sorting-->
+      1) Merge sort
+      2) Quick sort
+      3) inversion sort
+Stacks -->
+      1)Implementation using stack
+      2)infix, prefix, postfix
+      3)previous smaller element
+      4)Window based problems
+Queue -->
+      1)Queue using stack and vice -versa
+      2)Sliding window based problems
+Backtracking -->
+      1)Knights, tour
+      2)rat in maze
+      3)N-Queen problem
+Recursion -->
+      1)nCr
+      2)josephus
+      3)Generating palindrome String
+      4)Subsets of String
+------------------------------------------------------
+2nd month==
+Hashing -->
+      1. Substring, sub-array based Hashing
+      2. String and Matrix-based Hashing Problems
+Binary Searching -->
+      1. Sorted and rotated arrays
+      2. square root, median of array
+      3. Using a middle point to solve the array problems like the Tree Cutter Problem
+Binary Tree -->
+       1. DFS Traversal of Binary Tree
+       2. Problems using BFS Traversal of Binary Tree
+       3. Upward Traversal based Problems.
+Binary Search Trees -->
+       1. Implementation of BST
+       2. Sorted Array Problem in BST, like Two-sum or Minimum Absolute Difference
+Priority Queue -->
+       1. Heap Implementations
+       2. Merge k-sorted Lists
+       3. Median or running stream
+Bit Manipulation -->
+       1. Bit masking
+       2. Problems using XOR properties
+Mathematics -->
+       1. problems using Euclid GCD
+       2. Modulo Arithmetics, Catalan’s Numbers, Fermat’s Little Theorem, Pigeonhole principle
+----------------------------------------------------------------------------------------------------
+3rd months ==
+Greedy Programming -->
+        1. Candy Distribution based Problems
+        2. Activity Selection based Problems
+Dynamic Programming -->
+  1. Linear DP
+  2. LCS Based DP
+  3. LIS Based DP
+  4. 0/1 Knapsack based DP
+  5. Grid-based DP
+  6. Partitioning DP
+Graphs -->
+  1. Grid-based problems like Capture region on board, water flow Problems
+  2. BFS and DFS based problems
+Disjoint Sets -->
+  1. Implementation using Path compression and rank
+Trie -->
+  1. Implementation
+  2. Working with n strings, Sorting or finding common prefix.
+Segment Trees -->
+  1. Basic Implementation
+  2. N-Ary Rooted Tree Implementation
+String Algorithms -->
+  1. KMP Algorithm
+  2. Rabin Karp Algorithm
+
+
+
